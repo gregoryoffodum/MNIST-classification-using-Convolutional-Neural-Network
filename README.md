@@ -57,7 +57,7 @@ The architecture ensures simultaneous reduction of image resoluton and increase 
 
 
 
-The model <ipynb> is run with 10 epochs iterating over batches with forward propagation, loss computation, back propagation and accuracy calculated.
+The [model](https://github.com/gregoryoffodum/MNIST-classification-using-Convolutional-Neural-Network/blob/main/Classification%20of%20MNIST%20digits%20using%20CNN.ipynb) is run with 10 epochs iterating over batches with forward propagation, loss computation, back propagation and accuracy calculated.
 
 
 <img width="468" alt="Loss" src="https://user-images.githubusercontent.com/78843321/215980671-24e33e24-1162-45a8-870f-a8aa7c4d2cf5.PNG">
