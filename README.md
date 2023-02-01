@@ -13,7 +13,7 @@ Create a Convolutional Neural Network (CNN) model to classify MNIST digits.
 - CNN
 
 
-## Methodology
+## Methodology/Results
 
 The data and labels (train and test) have been imported directly from torchvision. The data is reshaped to 2D and converted to tensor as required by pytorch. Tensors are conveted to PyTorch datasets and then translated to dataloader objects. Batch size = 32.
 
